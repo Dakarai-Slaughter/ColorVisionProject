@@ -1,22 +1,22 @@
-# Replace with your unique project name
+# 
 
 ## Description
 
 **version 1.0**
 
-Replace with a description of *what* your program does (not *how* it works)
+This program takes the RGB values of two colors and tells you how different they are for regular people and for people who are red-green colorblind
 
 
 ## Developer
 
-Replace with your name
+Dakarai Slaughter
 
 ## Example
 
 To run the program, give the following commands:
 
 ```
-g++ --std=c++11 *.cpp -o cvp
+g++ main.cpp -o cvp
 ./cvp
 ```
 
